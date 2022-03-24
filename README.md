@@ -1,5 +1,5 @@
 # compiler and language benchmarks
-Recently started wondering about differences between g++ vs clang/llvm for cpp, and also about the differences between rust and zig vs cpp.
+Recently started wondering about differences between g++ vs clang/llvm for cpp, and also about the differences between rust, zig, go vs cpp.
 
 The goal of this repo is to do some benchmark comparisons between the two.
 
