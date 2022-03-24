@@ -15,4 +15,4 @@ Here are some questions I'd like to answer:
   - Sorting
   - Others?
 
-This is really similar to what already exists here: https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+There's a way more complete and better version of this here: https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
