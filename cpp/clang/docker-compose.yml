@@ -1,0 +1,6 @@
+version: "2"
+services:
+  cpp-clang:
+    build:
+      context: ..
+      dockerfile: clang/Dockerfile
