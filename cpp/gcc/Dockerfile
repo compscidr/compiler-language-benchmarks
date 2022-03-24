@@ -1,5 +1,5 @@
-FROM gcc:11.1.0 as base
+FROM alpine as base
+RUN apk add g++ cmake make libc-dev
 WORKDIR /usr/src/cpp
 COPY . .
-WORKDIR /usr/src/cpp/build
 CMD ./entrypoint.sh

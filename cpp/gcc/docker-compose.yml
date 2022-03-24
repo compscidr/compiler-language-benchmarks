@@ -1,0 +1,6 @@
+version: "2"
+services:
+  cpp-gcc:
+    build:
+      context: ..
+      dockerfile: gcc/Dockerfile
